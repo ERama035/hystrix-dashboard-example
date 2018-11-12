@@ -5,5 +5,5 @@
 - `http://localhost:8092/hystrix.stream` - URL for Hystrix Stream which can be configured with any Hystrix Dashboard or Turbine
 
 
-youtube link : https://www.youtube.com/watch?v=SxJ2uLZWOyw
+youtube link for tutorial : https://www.youtube.com/watch?v=SxJ2uLZWOyw
 
